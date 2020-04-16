@@ -6,7 +6,7 @@ Note: Permission was obtained from instructor to publicly host this final projec
 For specific rules on the game of XiangQi, please refer to the Wikipedia article on the game:
 https://en.wikipedia.org/wiki/Xiangqi
 
-General Functionality: 
+# Description
 
 This python program allows players to play a game of Xianqi and tracks both the red team and the black team.
 Once an instance of XianqiGame class is initialized, methods are run on that object to perform moves to play the game.
@@ -29,7 +29,7 @@ The game records if someone has won the game, and what team that is and will not
 a team has won. To determine which team has one if the game has finished, get_game_state method can be run on the 
 XiangQiGame class. 
 
-Key Takeaways:
+# Key Takeaways
 
 - Class and method organization - object oriented programming design
 - Inheritance for all the game pieces, which each inherit from Piece class parent
