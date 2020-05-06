@@ -3,12 +3,12 @@ Python program that simulates the game of Xiangqi, or Chinese Chess
 
 Note: Permission was obtained from instructor to publicly host this final project. 
 
-For specific rules on the game of XiangQi, please refer to the Wikipedia article on the game:
+For specific rules on the game of Xiangqi, please refer to the Wikipedia article on the game:
 https://en.wikipedia.org/wiki/Xiangqi
 
 # Description
 
-This python program allows players to play a game of Xianqi and tracks both the red team and the black team.
+This python program allows players to play a game of Xiangqi and tracks both the red team and the black team.
 Once an instance of XianqiGame class is initialized, methods are run on that object to perform moves to play the game.
 Methods can be run to make a move of a game piece by defining the position on the board that the piece is, as well as 
 passing in the destination coordinate of the desired move. The game keeps track of the current state of the game board.
